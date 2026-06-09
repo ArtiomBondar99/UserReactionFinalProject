@@ -1,0 +1,7 @@
+pandas
+numpy
+zstandard
+tqdm
+matplotlib
+regex
+networkx
